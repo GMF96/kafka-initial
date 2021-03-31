@@ -1,0 +1,5 @@
+com\example\User$Builder.class
+com\example\User$1.class
+com\github\gmf96\kafka\apps\KafkaAvroConsumerV1.class
+com\github\gmf96\kafka\apps\KafkaAvroProducerV1.class
+com\example\User.class

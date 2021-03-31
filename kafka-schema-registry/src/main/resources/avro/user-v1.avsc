@@ -1,0 +1,11 @@
+{
+     "type": "record",
+     "namespace": "com.example",
+     "name": "User",
+     "version": "1",
+     "fields": [
+       { "name": "first_name", "type": "string", "doc": "First Name of User" },
+       { "name": "last_name", "type": ["null", "string"], "default": null, "doc": "Last Name of User" },
+       { "name": "zipcode", "type": "string", "doc": "Zipcode of User" }
+     ]
+}
